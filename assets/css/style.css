@@ -123,10 +123,10 @@ body {
     max-width: 150px;
 }
 
-.footer h4{
+.footer{
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-    font-size: 18px;
+    font-size: 14px;
 }
